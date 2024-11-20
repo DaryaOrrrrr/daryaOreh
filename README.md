@@ -9,5 +9,4 @@
 - [Техники тест-дизайна](#test-design-techniques)
 - [API тестирование](#api-testing)
 - [Автоматизированные тесты](#automated-tests)
-- [Отчеты по результатам тестирования](#test-reports)
 - [Контакты](#contacts)
